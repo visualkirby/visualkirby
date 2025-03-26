@@ -15,7 +15,7 @@
 [![Dream Job Analysis](https://img.shields.io/badge/🌐_My_Dream_Job_Analysis-8A2BE2)](https://github.com/visualkirby/My-Dream-Job)  
 *Industry/region/company analysis for supply chain careers*
 
-[![Walmart Optimization](https://img.shields.io/badge/🛒_Walmart_Supply_Chain-0071CE)](https://github.com/visualkirby/Supply-Chain-Portforlio)  
+[![Supply Chain Projects](https://img.shields.io/badge/📦_Supply_Chain_Projects-0071CE)](https://github.com/visualkirby/Supply-Chain-Portforlio)  
 *SWOT + Lean Six Sigma case studies*
 
 ### **Data Engineering**
@@ -31,9 +31,9 @@
 ## 📜 Certifications
 | Credential | Issuer | Verify |
 |------------|--------|--------|
-| **Google Data Analytics** | [![View](https://img.shields.io/badge/View-Certificate-4285F4)](https://github.com/visualkirby/visualkirby/blob/main/Google_Data_Analytics_Certificate.pdf) |
-| **Supply Chain Management** | Rutgers [![View](https://img.shields.io/badge/View-Certificate-CC0000)](https://github.com/visualkirby/visualkirby/blob/main/RU_Supply_Chain_Managment_Certificate.pdf) |
-| **Career Success** | UC Irvine [![View](https://img.shields.io/badge/View-Certificate-FF6C08)](https://github.com/visualkirby/visualkirby/blob/main/UCI_Career_Success_Certificate.pdf) |
+| **Google Data Analytics** | Google | [Verify](https://coursera.org/verify/professional-cert/XN9RSCLFQ7HS) |
+| **Supply Chain Management** | Rutgers | [Verify](https://coursera.org/verify/specialization/7AZ8IF5EPC33) |
+| **Career Success** | UC Irvine | [Verify](https://coursera.org/verify/specialization/Y94B8WHNGFWC) |
 
 ---
 
@@ -50,4 +50,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skirby@visualdreamland.com)
 
 📄 **Resume**: [Download PDF](https://github.com/visualkirby/visualkirby/blob/main/My_Resume.PDF)
-
