@@ -28,15 +28,9 @@
 
 ### **Budget & Work Performance Dashboard**
 
-[![Budget Dashboard](https://img.shields.io/badge/📊_Budget_&_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
+[![Budget Dashboard](https://img.shields.io/badge/🚚_Budget_&_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
 
-*A complete end-to-end analytics system that tracks **income, expenses, work performance KPIs, forecasting, and weekly scorecards**—powered by Google Sheets, Apps Script automation, and dashboard visuals.*
-
-📘 **Full Project README (includes file structure + sample CSV exports)**  
-👉 **https://github.com/visualkirby/Budget-Performance-Dashboard**
-
-📄 **View the Live Dashboard PDF Preview**  
-👉 [Monthly_Budget_and_Work_Performance.pdf](sandbox:/mnt/data/Monthly Budget.PDF)
+*Income + expenses + work performance KPIs + forecasting + weekly scorecards — Google Sheets / Excel*
 
 ---
 
