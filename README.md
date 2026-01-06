@@ -40,7 +40,7 @@
 | **Google Data Analytics** | Google | [Verify](https://coursera.org/verify/professional-cert/XN9RSCLFQ7HS) |
 | **Supply Chain Management** | Rutgers | [Verify](https://coursera.org/verify/specialization/7AZ8IF5EPC33) |
 | **Career Success** | UC Irvine | [Verify](https://coursera.org/verify/specialization/Y94B8WHNGFWC) |
-| **Introduction to Business** | UC Irvine | [Verify](https://www.coursera.org/account/accomplishments/specialization/26P3GRJURKPB) |
+| **Introduction to Business** | UC Irvine | [Verify](coursera.org/verify/professional-cert/XN9RSCLFQ7HS) |
 
 ---
 
