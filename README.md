@@ -56,4 +56,4 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sawandikirby)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skirby@visualdreamland.com)
 
-📄 **Resume**: [Download PDF](https://github.com/visualkirby/visualkirby/blob/main/My_Resume.PDF)
+📄 **Resume**: [Download PDF](https://github.com/visualkirby/visualkirby/blob/main/Resume.PDF)
