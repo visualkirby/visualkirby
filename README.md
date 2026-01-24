@@ -3,6 +3,8 @@
 **📌 Passionate about transforming supply chains through data-driven insights**  
 *"Bridging operations and analytics to optimize logistics, reduce costs, and drive efficiency"*
 
+---
+
 ## 🔧 Technical Toolkit
 ```diff
 + SQL (BigQuery, MySQL)  |  Python (Pandas, BeautifulSoup)  
@@ -10,23 +12,35 @@
 + Lean Six Sigma         |  Supply Chain Modeling  
 ```
 
+---
+
 ## 🚀 Featured Projects
+
+---
+
 ### **Supply Chain Analytics**
+
 [![Dream Job Analysis](https://img.shields.io/badge/🌐_My_Dream_Job_Analysis-8A2BE2)](https://github.com/visualkirby/My-Dream-Job)  
 *Industry/region/company analysis for supply chain careers*
 
 [![Supply Chain Projects](https://img.shields.io/badge/📦_Supply_Chain_Projects-0071CE)](https://github.com/visualkirby/Supply-Chain-Portforlio)  
 *SWOT + Lean Six Sigma case studies*
 
+---
+
 ### **Data Engineering**
+
 [![NBA Analytics Pipeline](https://img.shields.io/badge/🏀_NBA_Analytics-FF7F00)](https://github.com/visualkirby/Basketball_Data)  
 *End-to-end ETL with Python/R → SQL → Tableau*
 
+---
+
 ### **SQL Portfolio**
+
 [![SQL Solutions](https://img.shields.io/badge/📊_SQL_Portfolio-4479A1)](https://github.com/visualkirby/SQL-Code)  
 *LeetCode + real-world business analytics*
 
-### **Budget & Work Performance Dashboard**
+### **Excel / Google Sheets Dashboard**
 
 [![Budget Dashboard](https://img.shields.io/badge/🚚_Budget_&_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
 
