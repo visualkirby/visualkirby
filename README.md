@@ -40,6 +40,8 @@
 [![SQL Solutions](https://img.shields.io/badge/📊_SQL_Portfolio-4479A1)](https://github.com/visualkirby/SQL-Code)  
 *LeetCode + real-world business analytics*
 
+---
+
 ### **Excel / Google Sheets Dashboard**
 
 [![Budget Dashboard](https://img.shields.io/badge/🚚_Budget_&_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
