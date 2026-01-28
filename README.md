@@ -18,7 +18,25 @@
 
 ---
 
+### **SQL Portfolio**
+
+[![SQL Solutions](https://img.shields.io/badge/📊_SQL_Portfolio-4479A1)](https://github.com/visualkirby/SQL-Code)  
+*LeetCode + real-world business analytics*
+
+---
+
+### **Data Analytics**
+
+[![Budget Dashboard](https://img.shields.io/badge/🚚_Budget_&_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
+
+*Income + expenses + work performance KPIs + forecasting + weekly scorecards — Google Sheets / Excel*
+
+---
+
 ### **Supply Chain Analytics**
+
+[![3PL Supply Chain Analysis](https://img.shields.io/badge/🚚_3PL_Supply_Chain_Analysis-0B7285)](https://github.com/visualkirby/3PL-Supply-Chain-Analysis)  
+*End-to-end analysis of shipment reliability, cost, and SLA risk across modes, vendors, and geographies*
 
 [![Dream Job Analysis](https://img.shields.io/badge/🌐_My_Dream_Job_Analysis-8A2BE2)](https://github.com/visualkirby/My-Dream-Job)  
 *Industry/region/company analysis for supply chain careers*
@@ -32,21 +50,6 @@
 
 [![NBA Analytics Pipeline](https://img.shields.io/badge/🏀_NBA_Analytics-FF7F00)](https://github.com/visualkirby/Basketball_Data)  
 *End-to-end ETL with Python/R → SQL → Tableau*
-
----
-
-### **SQL Portfolio**
-
-[![SQL Solutions](https://img.shields.io/badge/📊_SQL_Portfolio-4479A1)](https://github.com/visualkirby/SQL-Code)  
-*LeetCode + real-world business analytics*
-
----
-
-### **Excel / Google Sheets Dashboard**
-
-[![Budget Dashboard](https://img.shields.io/badge/🚚_Budget_&_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
-
-*Income + expenses + work performance KPIs + forecasting + weekly scorecards — Google Sheets / Excel*
 
 ---
 
