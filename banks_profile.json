@@ -1,0 +1,40 @@
+{
+  "profile_id": "PROFILE_MAIN",
+  "username": "visualkirby",
+
+  "toolkit": [
+    { "tool_keyword": "sql", "tool_label": "SQL" },
+    { "tool_keyword": "bigquery", "tool_label": "BigQuery" },
+    { "tool_keyword": "mysql", "tool_label": "MySQL" },
+
+    { "tool_keyword": "python", "tool_label": "Python" },
+    { "tool_keyword": "pandas", "tool_label": "Pandas" },
+    { "tool_keyword": "beautifulsoup", "tool_label": "BeautifulSoup" },
+
+    { "tool_keyword": "r", "tool_label": "R" },
+    { "tool_keyword": "tidyverse", "tool_label": "tidyverse" },
+
+    { "tool_keyword": "tableau", "tool_label": "Tableau" },
+    { "tool_keyword": "power_bi", "tool_label": "Power BI" },
+
+    { "tool_keyword": "lean_six_sigma", "tool_label": "Lean Six Sigma" },
+    { "tool_keyword": "supply_chain_modeling", "tool_label": "Supply Chain Modeling" }
+  ],
+
+  "domains": [
+    "supply_chain",
+    "data_analytics",
+    "operations",
+    "data_engineering",
+    "sports_analytics"
+  ],
+
+  "focus_areas": [
+    "logistics_optimization",
+    "dashboarding",
+    "process_improvement",
+    "forecasting",
+    "etl_pipelines",
+    "business_intelligence"
+  ]
+}
