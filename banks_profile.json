@@ -1,40 +1,95 @@
 {
-  "profile_id": "PROFILE_MAIN",
-  "username": "visualkirby",
+  "profile": {
+    "profile_id": "PROFILE_MAIN",
+    "status": "active",
+    "name": "Sawandi Kirby",
+    "headline": "Supply Chain & Data Analytics Professional",
+    "location": "High Point, NC",
+    "tagline": "Bridging operations and analytics to optimize logistics, reduce costs, and drive efficiency across supply chains.",
+    "summary": "Supply chain and data analytics professional with hands-on experience in logistics, operations, and KPI-driven decision support. Strong background in translating operational data into actionable insights that improve efficiency, reduce cost, and optimize workflows."
+  },
 
-  "toolkit": [
-    { "tool_keyword": "sql", "tool_label": "SQL" },
-    { "tool_keyword": "bigquery", "tool_label": "BigQuery" },
-    { "tool_keyword": "mysql", "tool_label": "MySQL" },
+  "contacts": {
+    "profile_id": "PROFILE_MAIN",
+    "phone": "",
+    "email": "",
+    "location": "High Point, NC"
+  },
 
-    { "tool_keyword": "python", "tool_label": "Python" },
-    { "tool_keyword": "pandas", "tool_label": "Pandas" },
-    { "tool_keyword": "beautifulsoup", "tool_label": "BeautifulSoup" },
-
-    { "tool_keyword": "r", "tool_label": "R" },
-    { "tool_keyword": "tidyverse", "tool_label": "tidyverse" },
-
-    { "tool_keyword": "tableau", "tool_label": "Tableau" },
-    { "tool_keyword": "power_bi", "tool_label": "Power BI" },
-
-    { "tool_keyword": "lean_six_sigma", "tool_label": "Lean Six Sigma" },
-    { "tool_keyword": "supply_chain_modeling", "tool_label": "Supply Chain Modeling" }
-  ],
-
-  "domains": [
-    "supply_chain",
-    "data_analytics",
-    "operations",
-    "data_engineering",
-    "sports_analytics"
+  "links": [
+    { "profile_id": "PROFILE_MAIN", "label": "LinkedIn", "url": "https://www.linkedin.com/in/sawandi-kirby-7aa985208" },
+    { "profile_id": "PROFILE_MAIN", "label": "GitHub",   "url": "https://github.com/visualkirby" },
+    { "profile_id": "PROFILE_MAIN", "label": "Portfolio_Anchor", "url": "GitHub profile with pinned repositories" }
   ],
 
   "focus_areas": [
-    "logistics_optimization",
-    "dashboarding",
-    "process_improvement",
-    "forecasting",
-    "etl_pipelines",
-    "business_intelligence"
+    { "profile_id": "PROFILE_MAIN", "focus_area_keyword": "supply_chain_analytics",        "focus_area_label": "Supply Chain Analytics" },
+    { "profile_id": "PROFILE_MAIN", "focus_area_keyword": "logistics_optimization",        "focus_area_label": "Logistics Optimization" },
+    { "profile_id": "PROFILE_MAIN", "focus_area_keyword": "operations_decision_support",   "focus_area_label": "Operations Decision Support" },
+    { "profile_id": "PROFILE_MAIN", "focus_area_keyword": "cost_reduction",                "focus_area_label": "Cost Reduction" },
+    { "profile_id": "PROFILE_MAIN", "focus_area_keyword": "process_efficiency",            "focus_area_label": "Process Efficiency" }
+  ],
+
+  "toolkit": [
+    { "profile_id": "PROFILE_MAIN", "tool_category": "analytics_and_data",        "tool_keyword": "sql",                  "tool_label": "SQL" },
+    { "profile_id": "PROFILE_MAIN", "tool_category": "analytics_and_data",        "tool_keyword": "bigquery",              "tool_label": "BigQuery" },
+    { "profile_id": "PROFILE_MAIN", "tool_category": "analytics_and_data",        "tool_keyword": "mysql",                 "tool_label": "MySQL" },
+    { "profile_id": "PROFILE_MAIN", "tool_category": "analytics_and_data",        "tool_keyword": "python",                "tool_label": "Python" },
+    { "profile_id": "PROFILE_MAIN", "tool_category": "analytics_and_data",        "tool_keyword": "pandas",                "tool_label": "Pandas" },
+    { "profile_id": "PROFILE_MAIN", "tool_category": "analytics_and_data",        "tool_keyword": "beautifulsoup",         "tool_label": "BeautifulSoup" },
+    { "profile_id": "PROFILE_MAIN", "tool_category": "analytics_and_data",        "tool_keyword": "r",                     "tool_label": "R" },
+    { "profile_id": "PROFILE_MAIN", "tool_category": "analytics_and_data",        "tool_keyword": "tidyverse",             "tool_label": "tidyverse" },
+
+    { "profile_id": "PROFILE_MAIN", "tool_category": "bi_and_visualization",     "tool_keyword": "tableau",               "tool_label": "Tableau" },
+    { "profile_id": "PROFILE_MAIN", "tool_category": "bi_and_visualization",     "tool_keyword": "power_bi",              "tool_label": "Power BI" },
+
+    { "profile_id": "PROFILE_MAIN", "tool_category": "process_and_operations",   "tool_keyword": "lean_six_sigma",         "tool_label": "Lean Six Sigma" },
+    { "profile_id": "PROFILE_MAIN", "tool_category": "process_and_operations",   "tool_keyword": "supply_chain_modeling",  "tool_label": "Supply Chain Modeling" }
+  ],
+
+  "domains": [
+    {
+      "profile_id": "PROFILE_MAIN",
+      "domain_id": "DOMAIN_3PL_SUPPLY_CHAIN_ANALYTICS",
+      "domain_keyword": "3pl_supply_chain_analytics",
+      "domain_label": "3PL Supply Chain Analytics",
+      "domain_description": "End-to-End supply chain analytics project analyzing shipment reliability and logistics cost tradeoffs across modes, vendors, and geographies. Built with Excel and Tableau to identify risk drivers and optimization opportunities for 3PL operations."
+    },
+    {
+      "profile_id": "PROFILE_MAIN",
+      "domain_id": "DOMAIN_INDUSTRY_MARKET_ANALYTICS",
+      "domain_keyword": "industry_market_analytics",
+      "domain_label": "Industry Market Analytics",
+      "domain_description": "Career and market analysis for supply chain and logistics roles, including regional, industry, and company-level evaluation."
+    },
+    {
+      "profile_id": "PROFILE_MAIN",
+      "domain_id": "DOMAIN_SIX_SIGMA_WHITE_BELT_PROJECTS",
+      "domain_keyword": "six_sigma_white_belt",
+      "domain_label": "Six Sigma White Belt Projects",
+      "domain_description": "SWOT analysis and Lean Six Sigma case studies focused on logistics, operations optimization, and cost reduction."
+    },
+    {
+      "profile_id": "PROFILE_MAIN",
+      "domain_id": "DOMAIN_NBA_DATA_ENGINEERING",
+      "domain_keyword": "nba_data_engineering",
+      "domain_label": "NBA Data Engineering",
+      "domain_description": "NBA analytics pipeline using Python and R for ETL, SQL for modeling, and Tableau for visualization."
+    },
+    {
+      "profile_id": "PROFILE_MAIN",
+      "domain_id": "DOMAIN_SQL_PORTFOLIO",
+      "domain_keyword": "sql_portfolio",
+      "domain_label": "SQL Portfolio",
+      "domain_description": "SQL solutions for real business analytics problems and technical interview preparation."
+    },
+    {
+      "profile_id": "PROFILE_MAIN",
+      "domain_id": "DOMAIN_GOOGLE_SHEETS_DASHBOARD",
+      "domain_keyword": "google_sheets_dashboard",
+      "domain_label": "Google Sheets Dashboard",
+      "domain_description": "Integrated income, expense, and KPI tracking system with automation and forecasting capabilities."
+    }
   ]
 }
+
