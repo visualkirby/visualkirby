@@ -90,6 +90,13 @@
       "domain_keyword": "google_sheets_dashboard",
       "domain_label": "Google Sheets Dashboard",
       "domain_description": "Integrated income, expense, and KPI tracking system with automation and forecasting capabilities."
+    },
+    {
+      "profile_id": "PROFILE_MAIN",
+      "domain_id": "DOMAIN_KAGGLE_CASE_STUDIES",
+      "domain_keyword": "kaggle_case_studies",
+      "domain_label": "Kaggle Case Studies",
+      "domain_description": "A curated collection of standalone analytics and business case studies designed to demonstrate structured problem solving, data analysis, and decision-making across multiple domains. Each case study addresses a specific business question, applies analytical techniques, and delivers actionable insights supported by data."
     }
   ]
 }
