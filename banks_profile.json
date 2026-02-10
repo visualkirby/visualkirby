@@ -17,7 +17,6 @@
   },
 
   "links": [
-    { "profile_id": "PROFILE_MAIN", "label": "Portfolio_Anchor", "url": "GitHub profile with pinned repositories" },
     { "profile_id": "PROFILE_MAIN", "label": "LinkedIn", "url": "https://www.linkedin.com/in/sawandi-kirby-7aa985208" },
     { "profile_id": "PROFILE_MAIN", "label": "GitHub", "url": "https://github.com/visualkirby" },
     { "profile_id": "PROFILE_MAIN", "label": "Kaggle", "url": "https://www.kaggle.com/sawandikirby" }
