@@ -8,7 +8,7 @@
 ## 🔧 Technical Toolkit
 ```diff
 + SQL (BigQuery, MySQL)  |  Python (Pandas, BeautifulSoup)  
-+ R (tidyverse)          |  Tableau/Power BI  
++ R (tidyverse)          |  Tableau/Power BI/Looker Studio 
 + Lean Six Sigma         |  Supply Chain Modeling  
 ```
 
@@ -27,22 +27,28 @@
 
 ### **Data Analytics**
 
-[![Budget Dashboard](https://img.shields.io/badge/🚚_Budget_&_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
-
-*Income + expenses + work performance KPIs + forecasting + weekly scorecards — Google Sheets / Excel*
+[![Dream Job Analysis](https://img.shields.io/badge/🌐_My_Dream_Job_Analysis-8A2BE2)](https://github.com/visualkirby/My-Dream-Job)  
+*Industry/region/company analysis for supply chain careers*
 
 ---
 
 ### **Supply Chain Analytics**
 
 [![3PL Supply Chain Analysis](https://img.shields.io/badge/🚚_3PL_Supply_Chain_Analysis-0B7285)](https://github.com/visualkirby/3PL-Supply-Chain-Analysis)  
-*End-to-end analysis of shipment reliability, cost, and SLA risk across modes, vendors, and geographies*
+*End-to-end analysis of shipment reliability, cost, and SLA risk across modes, vendors, and geographies — Google Sheets / Tableau*
 
-[![Dream Job Analysis](https://img.shields.io/badge/🌐_My_Dream_Job_Analysis-8A2BE2)](https://github.com/visualkirby/My-Dream-Job)  
-*Industry/region/company analysis for supply chain careers*
+[![Enterprise Inventory & Pricing Optimization](https://img.shields.io/badge/📈_Enterprise_Inventory_%26_Pricing_Optimization-B68AE8)](https://github.com/visualkirby/Enterprise-Inventory-and-Pricing-Optimization)  
+*Integrated Tableau dashboard analyzing forecast accuracy, inventory risk, safety stock alignment, and pricing strategy to support operational decision-making — Excel / Tableau*
 
 [![Supply Chain Projects](https://img.shields.io/badge/📦_Supply_Chain_Projects-0071CE)](https://github.com/visualkirby/Supply-Chain-Portforlio)  
 *SWOT + Lean Six Sigma case studies*
+
+---
+
+### **Operations Analytics**
+
+[![Budget Dashboard](https://img.shields.io/badge/🚚_Budget_&_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
+*Income + expenses + work performance KPIs + forecasting + weekly scorecards — Google Sheets / Excel / Looker Studio*
 
 ---
 
