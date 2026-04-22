@@ -24,6 +24,10 @@
 
 *LeetCode + real-world business analytics*
 
+[![Upwork Acquisition Pipeline](https://img.shields.io/badge/🔍_Upwork_Acquisition_Pipeline-1A6B3A)](https://github.com/visualkirby/Upwork-Acquisition-Pipeline)
+
+*End-to-end client acquisition data pipeline — Google Sheets automation → BigQuery SQL analysis across 200+ jobs, 9 queries, and 19 tracked sessions*
+
 ---
 
 ### **Data Analytics**
@@ -31,6 +35,10 @@
 [![Dream Job Analysis](https://img.shields.io/badge/🌐_My_Dream_Job_Analysis-8A2BE2)](https://github.com/visualkirby/My-Dream-Job)  
 
 *Industry/region/company analysis for supply chain careers*
+
+[![Upwork Acquisition Dashboard](https://img.shields.io/badge/📋_Upwork_Acquisition_Dashboard-2E5F8A)](https://github.com/visualkirby/Upwork-Acquisition-Dashboard)
+
+*Multi-section Excel analytics dashboard visualizing a freelance client acquisition pipeline — BigQuery exports → KPI tiles, keyword intelligence, proposal performance, and connect efficiency tracking*
 
 ---
 
