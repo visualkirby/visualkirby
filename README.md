@@ -19,6 +19,18 @@
 
 ---
 
+### **Benchline Analytics Products**
+
+[![🚀 PipelineIQ](https://img.shields.io/badge/🚀_PipelineIQ-03a6a5)](https://github.com/visualkirby/pipelineiq-portfolio)
+
+*Session-based job acquisition automation for Upwork freelancers — 9-component AI scoring engine, GPT-4o-mini proposal generation, and full pipeline tracking from log to hire*
+
+[![📊 Benchline Progress Dashboard](https://img.shields.io/badge/📊_Benchline_Progress_Dashboard-03a6a5)](https://github.com/visualkirby/benchline-progress-dashboard-portfolio)
+
+*Password-protected daily productivity dashboard — time-blocked planning, vertical calendar view, and bidirectional Google Docs sync, built with Google Apps Script*
+
+---
+
 ### **SQL Portfolio**
 
 [![SQL Solutions](https://img.shields.io/badge/📊_SQL_Portfolio-4479A1)](https://github.com/visualkirby/SQL-Code)  
