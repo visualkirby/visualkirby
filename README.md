@@ -1,7 +1,7 @@
-# 👋 Sawandi Kirby | Supply Chain & Data Analytics Professional
+# 👋 Sawandi Kirby | Data Analytics & Business Intelligence
 
-**📌 Passionate about transforming supply chains through data-driven insights**  
-*"Bridging operations and analytics to optimize logistics, reduce costs, and drive efficiency"*
+**📌 Passionate about transforming organizations through data-driven insights and business intelligence**  
+*"Bridging data and decision-making to deliver clear KPIs, dashboards, and actionable intelligence"*
 
 ---
 
@@ -9,7 +9,8 @@
 ```diff
 + SQL (BigQuery, MySQL)  |  Python (Pandas, BeautifulSoup)  
 + R (tidyverse)          |  Tableau/Power BI/Looker Studio 
-+ Lean Six Sigma         |  Supply Chain Modeling  
++ Google Apps Script     |  Lean Six Sigma  
++ Supply Chain Modeling  
 ```
 
 ---
@@ -88,6 +89,7 @@
 - **Machine Learning for Supply Chain Forecasting**  
 - **Advanced SQL Optimization**  
 - **AWS Certified Cloud Practitioner**  
+- **Power BI / DAX**  
 
 ---
 
