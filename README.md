@@ -2,6 +2,8 @@
 
 **Owner, Benchline Analytics — Data intelligence for organizations that mean business.**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=03A6A5&width=650&lines=Data+Analytics+%26+Business+Intelligence;Founder%2C+Benchline+Analytics;Building+AI-powered+data+tools;Supply+Chain+%2B+Analytics+%3D+Better+Decisions)](https://git.io/typing-svg)
+
 [![🌐 benchlineanalytics.com](https://img.shields.io/badge/🌐_benchlineanalytics.com-05467c)](https://benchlineanalytics.com)
 
 ---
@@ -103,6 +105,19 @@
 [![NBA Analytics Pipeline](https://img.shields.io/badge/🏀_NBA_Analytics_Pipeline-FF7F00)](https://github.com/visualkirby/Basketball_Data)
 
 *End-to-end ETL pipeline: Python / R data ingestion → SQL analysis → Tableau visualization*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=visualkirby&show_icons=true&title_color=03a6a5&text_color=ffffff&icon_color=c78a03&bg_color=05467c&border_color=03a6a5&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visualkirby&layout=compact&title_color=03a6a5&text_color=ffffff&bg_color=05467c&border_color=03a6a5&langs_count=8" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=visualkirby&background=05467c&border=03a6a5&stroke=03a6a5&ring=c78a03&fire=c78a03&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=03a6a5&sideLabels=03a6a5&dates=aaaaaa" alt="GitHub Streak" />
+</p>
 
 ---
 
