@@ -1,6 +1,6 @@
-# 👋 Sawandi Kirby | Data Analytics & Business Intelligence
-
-**Owner, Benchline Analytics — Data intelligence for organizations that mean business.**
+<p align="center">
+  <img src="images/header-banner.png" alt="Sawandi Kirby | Benchline Analytics" width="100%" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=03A6A5&width=650&lines=Data+Analytics+%26+Business+Intelligence;Founder%2C+Benchline+Analytics;Building+AI-powered+data+tools;Supply+Chain+%2B+Analytics+%3D+Better+Decisions)](https://git.io/typing-svg)
 
@@ -9,14 +9,33 @@
 ---
 
 ## 🔧 Technical Toolkit
-```diff
-+ SQL (BigQuery, MySQL)          |  Python (Pandas, BeautifulSoup, python-docx)
-+ R (tidyverse, officer)         |  Excel
-+ JavaScript / TypeScript        |  Node.js  |  React  |  FastAPI  |  Supabase
-+ Tableau / Power BI / Looker Studio              |  Google Apps Script
-+ Google Workspace APIs          |  OpenAI API  |  Anthropic Claude API
-+ GitHub API (REST)              |  Lean Six Sigma  |  Supply Chain Modeling
-```
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="images/icons/python.svg" width="40"/><br/><sub><b>Python</b></sub></td>
+    <td align="center"><img src="images/icons/r.svg" width="40"/><br/><sub><b>R</b></sub></td>
+    <td align="center"><img src="images/icons/javascript.svg" width="40"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center"><img src="images/icons/typescript.svg" width="40"/><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center"><img src="images/icons/nodedotjs.svg" width="40"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center"><img src="images/icons/react.svg" width="40"/><br/><sub><b>React</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/icons/fastapi.svg" width="40"/><br/><sub><b>FastAPI</b></sub></td>
+    <td align="center"><img src="images/icons/supabase.svg" width="40"/><br/><sub><b>Supabase</b></sub></td>
+    <td align="center"><img src="images/icons/googlebigquery.svg" width="40"/><br/><sub><b>BigQuery</b></sub></td>
+    <td align="center"><img src="images/icons/microsoftexcel.svg" width="40"/><br/><sub><b>Excel</b></sub></td>
+    <td align="center"><img src="images/icons/powerbi.svg" width="40"/><br/><sub><b>Power BI</b></sub></td>
+    <td align="center"><img src="images/icons/tableau.svg" width="40"/><br/><sub><b>Tableau</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/icons/google.svg" width="40"/><br/><sub><b>Apps Script</b></sub></td>
+    <td align="center"><img src="images/icons/looker.svg" width="40"/><br/><sub><b>Looker Studio</b></sub></td>
+    <td align="center"><img src="images/icons/openai.svg" width="40"/><br/><sub><b>OpenAI API</b></sub></td>
+    <td align="center"><img src="images/icons/anthropic.svg" width="40"/><br/><sub><b>Anthropic API</b></sub></td>
+    <td align="center"><img src="images/icons/github.svg" width="40"/><br/><sub><b>GitHub API</b></sub></td>
+    <td align="center"><img src="images/icons/googlebigquery.svg" width="40"/><br/><sub><b>SQL</b></sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -24,7 +43,7 @@
 
 ---
 
-### **Benchline Analytics Products**
+<img src="images/section-products.png" alt="Benchline Analytics Products" width="100%" />
 
 [![🚀 PipelineIQ](https://img.shields.io/badge/🚀_PipelineIQ-03a6a5)](https://github.com/visualkirby/pipelineiq-portfolio)
 
@@ -40,7 +59,7 @@
 
 ---
 
-### **AI & Automation**
+<img src="images/section-ai.png" alt="AI & Automation" width="100%" />
 
 [![📓 30-Day Data Analyst Curriculum](https://img.shields.io/badge/📓_30--Day_Data_Analyst_Curriculum-05467c)](https://github.com/visualkirby/30-day-data-analyst-learning-curriculum)
 
@@ -48,7 +67,7 @@
 
 ---
 
-### **SQL Portfolio**
+<img src="images/section-sql.png" alt="SQL Portfolio" width="100%" />
 
 [![SQL Solutions](https://img.shields.io/badge/📊_SQL_Portfolio-4479A1)](https://github.com/visualkirby/SQL-Code)
 
@@ -56,7 +75,7 @@
 
 ---
 
-### **Data Analytics**
+<img src="images/section-analytics.png" alt="Data Analytics" width="100%" />
 
 [![Upwork Acquisition Dashboard](https://img.shields.io/badge/📋_Upwork_Acquisition_Dashboard-2E5F8A)](https://github.com/visualkirby/Upwork-Acquisition-Dashboard)
 
@@ -72,7 +91,7 @@
 
 ---
 
-### **Supply Chain Analytics**
+<img src="images/section-supply-chain.png" alt="Supply Chain Analytics" width="100%" />
 
 [![3PL Supply Chain Analysis](https://img.shields.io/badge/🚚_3PL_Supply_Chain_Analysis-0B7285)](https://github.com/visualkirby/3PL-Supply-Chain-Analysis)
 
@@ -80,7 +99,7 @@
 
 [![Enterprise Inventory & Pricing Optimization](https://img.shields.io/badge/📈_Enterprise_Inventory_%26_Pricing_Optimization-B68AE8)](https://github.com/visualkirby/Enterprise-Inventory-and-Pricing-Optimization)
 
-*Integrated Tableau dashboard analyzing forecast accuracy, inventory risk, safety stock alignment, and pricing strategy to support operational decision-making — Excel / Tableau*
+*Integrated Tableau dashboard analyzing forecast accuracy, inventory risk, safety stock alignment, and pricing strategy — Excel / Tableau*
 
 [![Supply Chain Projects](https://img.shields.io/badge/📦_Supply_Chain_Projects-0071CE)](https://github.com/visualkirby/Supply-Chain-Portforlio)
 
@@ -88,7 +107,7 @@
 
 ---
 
-### **Operations Analytics**
+<img src="images/section-operations.png" alt="Operations Analytics" width="100%" />
 
 [![Budget Dashboard](https://img.shields.io/badge/💼_Budget_%26_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
 
@@ -100,7 +119,7 @@
 
 ---
 
-### **Data Engineering**
+<img src="images/section-data-eng.png" alt="Data Engineering" width="100%" />
 
 [![NBA Analytics Pipeline](https://img.shields.io/badge/🏀_NBA_Analytics_Pipeline-FF7F00)](https://github.com/visualkirby/Basketball_Data)
 
@@ -121,7 +140,8 @@
 
 ---
 
-## 📜 Certifications
+<img src="images/section-certs.png" alt="Certifications" width="100%" />
+
 | Credential | Issuer | Verify |
 |------------|--------|--------|
 | **Google Data Analytics** | Google | [Verify](https://coursera.org/verify/professional-cert/XN9RSCLFQ7HS) |
@@ -133,7 +153,8 @@
 
 ---
 
-## 🌱 Currently Learning
+<img src="images/section-learning.png" alt="Currently Learning" width="100%" />
+
 - **Power BI / DAX**
 - **Machine Learning for Supply Chain Forecasting**
 - **Advanced SQL Optimization**
@@ -143,7 +164,8 @@
 
 ---
 
-## 📬 Let's Connect
+<img src="images/section-connect.png" alt="Let's Connect" width="100%" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawandi-kirby-7aa985208)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sawandikirby)
 [![Benchline Analytics](https://img.shields.io/badge/Benchline_Analytics-05467c?style=for-the-badge)](https://benchlineanalytics.com)
