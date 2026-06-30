@@ -130,8 +130,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visualkirby&show_icons=true&title_color=03a6a5&text_color=ffffff&icon_color=c78a03&bg_color=05467c&border_color=03a6a5&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visualkirby&layout=compact&title_color=03a6a5&text_color=ffffff&bg_color=05467c&border_color=03a6a5&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=visualkirby&show_icons=true&title_color=03a6a5&text_color=ffffff&icon_color=c78a03&bg_color=05467c&border_color=03a6a5&cache_seconds=86400" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visualkirby&layout=compact&title_color=03a6a5&text_color=ffffff&bg_color=05467c&border_color=03a6a5&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
