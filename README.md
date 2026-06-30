@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/header-banner.png" alt="Sawandi Kirby | Benchline Analytics" width="100%" />
+  <img src="images/header-banner.png?v=2" alt="Sawandi Kirby | Benchline Analytics" width="100%" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=03A6A5&width=650&lines=Data+Analytics+%26+Business+Intelligence;Founder%2C+Benchline+Analytics;Building+AI-powered+data+tools;Supply+Chain+%2B+Analytics+%3D+Better+Decisions)](https://git.io/typing-svg)
@@ -43,7 +43,7 @@
 
 ---
 
-<img src="images/section-products.png" alt="Benchline Analytics Products" width="100%" />
+<img src="images/section-products.png?v=2" alt="Benchline Analytics Products" width="100%" />
 
 [![🚀 PipelineIQ](https://img.shields.io/badge/🚀_PipelineIQ-03a6a5)](https://github.com/visualkirby/pipelineiq-portfolio)
 
@@ -59,7 +59,7 @@
 
 ---
 
-<img src="images/section-ai.png" alt="AI & Automation" width="100%" />
+<img src="images/section-ai.png?v=2" alt="AI & Automation" width="100%" />
 
 [![📓 30-Day Data Analyst Curriculum](https://img.shields.io/badge/📓_30--Day_Data_Analyst_Curriculum-05467c)](https://github.com/visualkirby/30-day-data-analyst-learning-curriculum)
 
@@ -67,7 +67,7 @@
 
 ---
 
-<img src="images/section-sql.png" alt="SQL Portfolio" width="100%" />
+<img src="images/section-sql.png?v=2" alt="SQL Portfolio" width="100%" />
 
 [![SQL Solutions](https://img.shields.io/badge/📊_SQL_Portfolio-4479A1)](https://github.com/visualkirby/SQL-Code)
 
@@ -75,7 +75,7 @@
 
 ---
 
-<img src="images/section-analytics.png" alt="Data Analytics" width="100%" />
+<img src="images/section-analytics.png?v=2" alt="Data Analytics" width="100%" />
 
 [![Upwork Acquisition Dashboard](https://img.shields.io/badge/📋_Upwork_Acquisition_Dashboard-2E5F8A)](https://github.com/visualkirby/Upwork-Acquisition-Dashboard)
 
@@ -91,7 +91,7 @@
 
 ---
 
-<img src="images/section-supply-chain.png" alt="Supply Chain Analytics" width="100%" />
+<img src="images/section-supply-chain.png?v=2" alt="Supply Chain Analytics" width="100%" />
 
 [![3PL Supply Chain Analysis](https://img.shields.io/badge/🚚_3PL_Supply_Chain_Analysis-0B7285)](https://github.com/visualkirby/3PL-Supply-Chain-Analysis)
 
@@ -107,7 +107,7 @@
 
 ---
 
-<img src="images/section-operations.png" alt="Operations Analytics" width="100%" />
+<img src="images/section-operations.png?v=2" alt="Operations Analytics" width="100%" />
 
 [![Budget Dashboard](https://img.shields.io/badge/💼_Budget_%26_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
 
@@ -119,7 +119,7 @@
 
 ---
 
-<img src="images/section-data-eng.png" alt="Data Engineering" width="100%" />
+<img src="images/section-data-eng.png?v=2" alt="Data Engineering" width="100%" />
 
 [![NBA Analytics Pipeline](https://img.shields.io/badge/🏀_NBA_Analytics_Pipeline-FF7F00)](https://github.com/visualkirby/Basketball_Data)
 
@@ -140,7 +140,7 @@
 
 ---
 
-<img src="images/section-certs.png" alt="Certifications" width="100%" />
+<img src="images/section-certs.png?v=2" alt="Certifications" width="100%" />
 
 | Credential | Issuer | Verify |
 |------------|--------|--------|
@@ -153,7 +153,7 @@
 
 ---
 
-<img src="images/section-learning.png" alt="Currently Learning" width="100%" />
+<img src="images/section-learning.png?v=2" alt="Currently Learning" width="100%" />
 
 - **Power BI / DAX**
 - **Machine Learning for Supply Chain Forecasting**
@@ -164,7 +164,7 @@
 
 ---
 
-<img src="images/section-connect.png" alt="Let's Connect" width="100%" />
+<img src="images/section-connect.png?v=2" alt="Let's Connect" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawandi-kirby-7aa985208)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sawandikirby)
