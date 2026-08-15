@@ -81,6 +81,14 @@
 
 *Multi-section Excel analytics dashboard visualizing a freelance client acquisition pipeline: BigQuery exports → KPI tiles, keyword intelligence, proposal performance, and connect efficiency tracking*
 
+[![🗄️ Upwork Acquisition Pipeline](https://img.shields.io/badge/🗄️_Upwork_Acquisition_Pipeline-1B4B73)](https://github.com/visualkirby/Upwork-Acquisition-Pipeline)
+
+*SQL pipeline feeding the Acquisition Dashboard above: BigQuery queries tracking job discovery, scoring, and proposal activity end to end, plus the Apps Script automation that logs it*
+
+[![🎛️ Power BI KPI Dashboard](https://img.shields.io/badge/🎛️_Power_BI_KPI_Dashboard-F2C811)](https://github.com/visualkirby/Power-BI-KPI-Dashboard)
+
+*Two-role Power BI report with row-level security, 17 DAX measures, and bookmark navigation across a 5-table star schema*
+
 [![🐍 Kaggle Notebooks](https://img.shields.io/badge/🐍_Kaggle_Notebooks-20BEFF)](https://github.com/visualkirby/Kaggle-Notebooks)
 
 *Python analytics notebooks: data cleaning, EDA, and visualization across public datasets*
@@ -105,6 +113,10 @@
 
 *SWOT analysis + Lean Six Sigma case studies applied to real supply chain scenarios*
 
+[![🏭 Odoo Warehouse Operations](https://img.shields.io/badge/🏭_Odoo_Warehouse_Operations-714B67)](https://github.com/visualkirby/Odoo-Warehouse-Operations-Case-Study)
+
+*Real inventory cycles run live in Odoo via browser automation: purchase orders, receiving, sales, and a cycle-count correction, reconciled against hand-computed math*
+
 ---
 
 <img src="images/section-operations.png?v=2" alt="Operations Analytics" width="100%" />
@@ -124,6 +136,22 @@
 [![NBA Analytics Pipeline](https://img.shields.io/badge/🏀_NBA_Analytics_Pipeline-FF7F00)](https://github.com/visualkirby/Basketball_Data)
 
 *End-to-end ETL pipeline: Python / R data ingestion → SQL analysis → Tableau visualization*
+
+---
+
+<img src="images/section-web-analytics.png?v=2" alt="Web & Marketing Analytics" width="100%" />
+
+[![⚡ PageSpeed Optimization](https://img.shields.io/badge/⚡_PageSpeed_Optimization-FBBC05)](https://github.com/visualkirby/PageSpeed-Optimization)
+
+*Real PageSpeed Insights case study on a live WordPress site: Mobile Performance 63 → 77 and Desktop 51 → 97 across four root-caused fixes*
+
+[![🔍 GSC SEO Monitoring](https://img.shields.io/badge/🔍_GSC_SEO_Monitoring-4285F4)](https://github.com/visualkirby/GSC-SEO-Monitoring)
+
+*Google Search Console indexing audit, classifying every excluded URL by its actual cause before fixing only the real gaps*
+
+[![🏷️ GA4 + GTM Analytics](https://img.shields.io/badge/🏷️_GA4_%2B_GTM_Analytics-34A853)](https://github.com/visualkirby/GA4-GTM-Analytics-Portfolio)
+
+*GA4 and Google Tag Manager conversion tracking, verified against real production behavior through a live platform migration mid-build*
 
 ---
 
