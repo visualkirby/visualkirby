@@ -47,15 +47,15 @@
 
 [![🚀 PipelineIQ](https://img.shields.io/badge/🚀_PipelineIQ-03a6a5)](https://github.com/visualkirby/pipelineiq-portfolio)
 
-*Session-based job acquisition automation for Upwork freelancers — 9-component AI scoring engine, GPT-4o-mini proposal generation, and full pipeline tracking from log to hire*
+*Session-based job acquisition automation for Upwork freelancers: 9-component AI scoring engine, GPT-4o-mini proposal generation, and full pipeline tracking from log to hire*
 
 [![📊 Benchline Progress Dashboard](https://img.shields.io/badge/📊_Benchline_Progress_Dashboard-03a6a5)](https://github.com/visualkirby/benchline-progress-dashboard-portfolio)
 
-*Password-protected daily productivity dashboard — time-blocked planning, vertical calendar view, and bidirectional Google Docs sync, built with Google Apps Script*
+*Password-protected daily productivity dashboard: time-blocked planning, vertical calendar view, and bidirectional Google Docs sync, built with Google Apps Script*
 
 [![📈 SteadMark Metrics](https://img.shields.io/badge/📈_SteadMark_Metrics-03a6a5)](https://github.com/visualkirby/steadmark-metrics-portfolio)
 
-*Multi-page Power BI dashboard for K-12 institutions — Teacher and Administrator role-based views with row-level security, DAX KPI measures, and bookmark navigation*
+*Multi-page Power BI dashboard for K-12 institutions: Teacher and Administrator role-based views with row-level security, DAX KPI measures, and bookmark navigation*
 
 ---
 
@@ -63,7 +63,7 @@
 
 [![📓 30-Day Data Analyst Curriculum](https://img.shields.io/badge/📓_30--Day_Data_Analyst_Curriculum-05467c)](https://github.com/visualkirby/30-day-data-analyst-learning-curriculum)
 
-*Personalized 30-day curriculum built from Alex The Analyst's bootcamp via NotebookLM MCP — lesson plan, study guide, 3 quizzes, 78-card flashcard deck, and printable workbook*
+*Personalized 30-day curriculum built from Alex The Analyst's bootcamp via NotebookLM MCP: lesson plan, study guide, 3 quizzes, 78-card flashcard deck, and printable workbook*
 
 ---
 
@@ -79,11 +79,11 @@
 
 [![Upwork Acquisition Dashboard](https://img.shields.io/badge/📋_Upwork_Acquisition_Dashboard-2E5F8A)](https://github.com/visualkirby/Upwork-Acquisition-Dashboard)
 
-*Multi-section Excel analytics dashboard visualizing a freelance client acquisition pipeline — BigQuery exports → KPI tiles, keyword intelligence, proposal performance, and connect efficiency tracking*
+*Multi-section Excel analytics dashboard visualizing a freelance client acquisition pipeline: BigQuery exports → KPI tiles, keyword intelligence, proposal performance, and connect efficiency tracking*
 
 [![🐍 Kaggle Notebooks](https://img.shields.io/badge/🐍_Kaggle_Notebooks-20BEFF)](https://github.com/visualkirby/Kaggle-Notebooks)
 
-*Python analytics notebooks — data cleaning, EDA, and visualization across public datasets*
+*Python analytics notebooks: data cleaning, EDA, and visualization across public datasets*
 
 [![Dream Job Analysis](https://img.shields.io/badge/🌐_My_Dream_Job_Analysis-8A2BE2)](https://github.com/visualkirby/My-Dream-Job)
 
@@ -95,11 +95,11 @@
 
 [![3PL Supply Chain Analysis](https://img.shields.io/badge/🚚_3PL_Supply_Chain_Analysis-0B7285)](https://github.com/visualkirby/3PL-Supply-Chain-Analysis)
 
-*End-to-end analysis of shipment reliability, cost, and SLA risk across modes, vendors, and geographies — Google Sheets / Python / SQL / R / Tableau / BigQuery*
+*End-to-end analysis of shipment reliability, cost, and SLA risk across modes, vendors, and geographies: Google Sheets / Python / SQL / R / Tableau / BigQuery*
 
 [![Enterprise Inventory & Pricing Optimization](https://img.shields.io/badge/📈_Enterprise_Inventory_%26_Pricing_Optimization-B68AE8)](https://github.com/visualkirby/Enterprise-Inventory-and-Pricing-Optimization)
 
-*Integrated Tableau dashboard analyzing forecast accuracy, inventory risk, safety stock alignment, and pricing strategy — Excel / Tableau*
+*Integrated Tableau dashboard analyzing forecast accuracy, inventory risk, safety stock alignment, and pricing strategy: Excel / Tableau*
 
 [![Supply Chain Projects](https://img.shields.io/badge/📦_Supply_Chain_Projects-0071CE)](https://github.com/visualkirby/Supply-Chain-Portforlio)
 
@@ -111,11 +111,11 @@
 
 [![Budget Dashboard](https://img.shields.io/badge/💼_Budget_%26_Work_Performance_Dashboard-0A84FF)](https://github.com/visualkirby/Budget-Performance-Dashboard)
 
-*End-to-end analytics system tracking income, expenses, work performance KPIs, forecasting, and weekly scorecards — Google Sheets / Apps Script / Excel / Looker Studio*
+*End-to-end analytics system tracking income, expenses, work performance KPIs, forecasting, and weekly scorecards: Google Sheets / Apps Script / Excel / Looker Studio*
 
 [![Case Studies](https://img.shields.io/badge/📋_Case_Studies-166534)](https://github.com/visualkirby/Case_Studies)
 
-*Business analytics case studies in R — operational analysis and decision support*
+*Business analytics case studies in R: operational analysis and decision support*
 
 ---
 
