@@ -45,15 +45,15 @@
 
 <img src="images/section-products.png?v=2" alt="Benchline Analytics Products" width="100%" />
 
-[![🚀 PipelineIQ](https://img.shields.io/badge/🚀_PipelineIQ-03a6a5)](https://github.com/visualkirby/pipelineiq-portfolio)
+[![🚀 PipelineIQ](https://img.shields.io/badge/🚀_PipelineIQ-03a6a5)](https://github.com/visualkirby/PipelineIQ-Portfolio)
 
 *Session-based job acquisition automation for Upwork freelancers: 9-component AI scoring engine, GPT-4o-mini proposal generation, and full pipeline tracking from log to hire*
 
-[![📊 Benchline Progress Dashboard](https://img.shields.io/badge/📊_Benchline_Progress_Dashboard-03a6a5)](https://github.com/visualkirby/benchline-progress-dashboard-portfolio)
+[![📊 Benchline Progress Dashboard](https://img.shields.io/badge/📊_Benchline_Progress_Dashboard-03a6a5)](https://github.com/visualkirby/Benchline-Progress-Dashboard-Portfolio)
 
 *Password-protected daily productivity dashboard: time-blocked planning, vertical calendar view, and bidirectional Google Docs sync, built with Google Apps Script*
 
-[![📈 SteadMark Metrics](https://img.shields.io/badge/📈_SteadMark_Metrics-03a6a5)](https://github.com/visualkirby/steadmark-metrics-portfolio)
+[![📈 SteadMark Metrics](https://img.shields.io/badge/📈_SteadMark_Metrics-03a6a5)](https://github.com/visualkirby/SteadMark-Metrics-Portfolio)
 
 *Multi-page Power BI dashboard for K-12 institutions: Teacher and Administrator role-based views with row-level security, DAX KPI measures, and bookmark navigation*
 
