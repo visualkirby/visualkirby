@@ -109,7 +109,7 @@
 
 *Integrated Tableau dashboard analyzing forecast accuracy, inventory risk, safety stock alignment, and pricing strategy: Excel / Tableau*
 
-[![Supply Chain Projects](https://img.shields.io/badge/📦_Supply_Chain_Projects-0071CE)](https://github.com/visualkirby/Supply-Chain-Portforlio)
+[![Supply Chain Projects](https://img.shields.io/badge/📦_Supply_Chain_Projects-0071CE)](https://github.com/visualkirby/Supply-Chain-Portfolio)
 
 *SWOT analysis + Lean Six Sigma case studies applied to real supply chain scenarios*
 
