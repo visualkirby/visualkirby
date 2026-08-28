@@ -89,6 +89,10 @@
 
 *Two-role Power BI report with row-level security, 17 DAX measures, and bookmark navigation across a 5-table star schema*
 
+[![☁️ Salesforce CRM Pipeline Analytics](https://img.shields.io/badge/☁️_Salesforce_CRM_Pipeline_Analytics-00A1E0)](https://github.com/visualkirby/Salesforce-CRM-Pipeline-Analytics)
+
+*Sales Cloud build on Benchline's own client-acquisition pipeline: 10 synthetic small-business prospects, 15 opportunities across the full stage funnel, three scoped reports, a dashboard, and one automation Flow. Backed by two Salesforce superbadges.*
+
 [![🐍 Kaggle Notebooks](https://img.shields.io/badge/🐍_Kaggle_Notebooks-20BEFF)](https://github.com/visualkirby/Kaggle-Notebooks)
 
 *Python analytics notebooks: data cleaning, EDA, and visualization across public datasets*
@@ -176,6 +180,8 @@
 | **Supply Chain Management** | Rutgers | [Verify](https://coursera.org/verify/specialization/7AZ8IF5EPC33) |
 | **Career Success** | UC Irvine | [Verify](https://coursera.org/verify/specialization/Y94B8WHNGFWC) |
 | **Introduction to Business** | UC Irvine | [Verify](https://www.coursera.org/account/accomplishments/specialization/26P3GRJURKPB) |
+| **Superbadge: Report Administration for Agentforce Readiness** | Salesforce Trailhead | [Proof](https://github.com/visualkirby/Salesforce-CRM-Pipeline-Analytics#credentials) |
+| **Superbadge: Dashboard Insights for Agentforce Readiness** | Salesforce Trailhead | [Proof](https://github.com/visualkirby/Salesforce-CRM-Pipeline-Analytics#credentials) |
 
 [![🎓 Certifications Repo](https://img.shields.io/badge/🎓_All_Certificates-24292e)](https://github.com/visualkirby/Certifications)
 
