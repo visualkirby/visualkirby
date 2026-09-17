@@ -121,6 +121,10 @@
 
 *Real inventory cycles run live in Odoo via browser automation: purchase orders, receiving, sales, and a cycle-count correction, reconciled against hand-computed math*
 
+[![🚛 LTL Carrier Rate Benchmarking](https://img.shields.io/badge/🚛_LTL_Carrier_Rate_Benchmarking-c78a03)](https://github.com/visualkirby/LTL-Carrier-Rate-Benchmarking)
+
+*BigQuery leave-one-out rate benchmarking on 1,024 synthetic LTL quotes: flags carrier-lanes priced above market and hands back a routing plan in Excel. Dataset + generation notebook also published to Kaggle.*
+
 ---
 
 <img src="images/section-operations.png?v=2" alt="Operations Analytics" width="100%" />
