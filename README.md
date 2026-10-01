@@ -89,6 +89,10 @@
 
 *Two-role Power BI report with row-level security, 17 DAX measures, and bookmark navigation across a 5-table star schema*
 
+[![🎫 Freshdesk KPI Tracker](https://img.shields.io/badge/🎫_Freshdesk_KPI_Tracker-25C16F)](https://github.com/visualkirby/Freshdesk-KPI-Tracker)
+
+*Per-agent support KPIs from Freshdesk into SharePoint via two Power Automate flows: first-day-below-target Teams alerts, a Claude-written daily summary, and a Power BI dashboard*
+
 [![☁️ Salesforce CRM Pipeline Analytics](https://img.shields.io/badge/☁️_Salesforce_CRM_Pipeline_Analytics-00A1E0)](https://github.com/visualkirby/Salesforce-CRM-Pipeline-Analytics)
 
 *Sales Cloud build on Benchline's own client-acquisition pipeline: 10 synthetic small-business prospects, 15 opportunities across the full stage funnel, three scoped reports, a dashboard, and one automation Flow. Backed by two Salesforce superbadges.*
